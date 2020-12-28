@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRfehhB2QtVcqKFeEfD1QI5wwqa/K+9jJwQ4neKUVhL0bJehceAEV5WKBIRN/38PpRO7O+PtF0pHSF19hB2n+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoe\\OneDrive\\Área de Trabalho\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoe\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
